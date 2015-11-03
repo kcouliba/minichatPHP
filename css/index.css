@@ -1,0 +1,38 @@
+form {
+    height: 100px;
+    width: 30%;
+    margin: 10px auto 10px auto;
+    align-content: center;
+    align-items: center;
+    text-align: center:
+}
+
+input {
+    border-radius: 2px;
+}
+
+input[type="text"] {
+    padding: 1px 5px 1px 5px;
+}
+
+input[type="submit"]:hover {
+    box-shadow: 2px 2px lightgreen;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.error {
+    color: red;
+}
+
+.minichat {
+    height: 460px;
+    margin: 20px 5px 0px 5px;
+    overflow-y: scroll;
+}
+
+.time {
+    font-style: italic;
+}
